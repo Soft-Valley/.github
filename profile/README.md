@@ -1,12 +1,12 @@
 
-<h2 style="text-align: center;">Soft Valley</h2>
+# Soft Valley
 
 Soft Valley is a community of software enthusiasts who come together to learn, share, and collaborate on projects. Our goal is to create a vibrant and inclusive community that welcomes people of all skill levels and backgrounds.
 
-About
+## About
 Our organization is dedicated to advancing the field of software development through open-source projects, workshops, and meetups. We believe that by working together, we can create innovative solutions that benefit everyone.
 
-Getting Started
+## Getting Started
 To get started with Soft Valley, you can:
 
 
@@ -21,5 +21,5 @@ Help organize an event or workshop.
 Provide feedback and suggestions to help us improve.
 To learn more about contributing, please see our Contribution Guidelines.
 
-License
+## License
 This organization is licensed under the MIT License.
