@@ -1,9 +1,9 @@
 
 
-![https://softvalley.net](https://github.com/Soft-Valley/.github/assets/28561999/f22bdaff-b35d-4ccb-8bf8-541a0c61bb73)
+![Soft Valley](https://github.com/Soft-Valley/.github/assets/28561999/f22bdaff-b35d-4ccb-8bf8-541a0c61bb73)
 
 
-# Soft Valley
+# [Soft Valley](https://softvalley.net)
 
 Soft Valley is a community of software enthusiasts who come together to learn, share, and collaborate on projects. Our goal is to create a vibrant and inclusive community that welcomes people of all skill levels and backgrounds.
 
